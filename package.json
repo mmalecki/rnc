@@ -1,0 +1,11 @@
+{
+  "name": "rnc",
+  "version": "0.0.0",
+  "description": "Reconnecting nc",
+  "bin": "rnc",
+  "keywords": [
+    "netcat"
+  ],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "ISC"
+}
